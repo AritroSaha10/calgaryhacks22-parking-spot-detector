@@ -1,2 +1,2 @@
-# calgaryhacks22-parking-spot-detector
-Parking spot detector 
+# Parking Spot Detector (CalgaryHacks22)
+Parking spot detector (a part of the ChargePilot project)
